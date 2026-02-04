@@ -1,8 +1,37 @@
-# _config.yml
-title: "config title string object"
-description: "_config description string"
-theme: minima
-minima:
-  skin: dark
+# Основные данные SSoT
+title: "Mas Hakim B.O.S.H"
+description: "Bali Open Sources Hub | Entity SEO Root"
+email: "root-email@company-domain.com"
+
+# Внешний вид (UNIX/Hacker Style)
+remote_theme: pages-themes/hacker@v0.2.0
+
+# Навигация (Header)
+header_pages:
+  - index.md
+  - about.md
+  - posts.md
+  - places.md
+  - contacts.md
+
+# Социальные связи для футера и плагина SEO
+twitter_username: hakim_bali
+github_username: Mas-Hakim
+linkedin_username: username
+
+# Плагины (Активируют мета-теги и фиды)
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Настройки Markdown
+markdown: kramdown
+highlighter: rouge # Подсветка кода в стиле терминала
+
+# Исключения
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
