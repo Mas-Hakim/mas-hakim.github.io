@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Mas Hakim B.O.S.H
 ---
 
