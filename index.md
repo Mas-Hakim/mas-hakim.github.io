@@ -3,10 +3,10 @@ layout: home
 title: Mas Hakim B.O.S.H
 ---
 
-# Mas Hakim B.O.S.H : Bali Open Sources Hub 
-**Desc:** Mas Hakim Open Sources Root Page
+## Mas Hakim B.O.S.H : Bali Open Sources Hub 
+>**Desc:** Mas Hakim Open Sources Root Page
 
-## Привет дорогие друзья!
+#### Привет дорогие друзья!
 
 ![Main Image](./images/main.webp)
 
