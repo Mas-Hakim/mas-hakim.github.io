@@ -1,6 +1,6 @@
 # _config.yml
-title: "Mas Hakim B.O.S.H"
-description: "Bali Open Sources Hub"
+title: "config title string object"
+description: "_config description string"
 theme: minima
 minima:
   skin: dark
