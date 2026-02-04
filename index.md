@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Mas Hakim B.O.S.H"
+title: Mas Hakim B.O.S.H
 ---
 
 # Mas Hakim B.O.S.H : Bali Open Sources Hub 
