@@ -1,0 +1,6 @@
+# _config.yml
+title: "Mas Hakim B.O.S.H"
+description: "Bali Open Sources Hub"
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-seo-tag
