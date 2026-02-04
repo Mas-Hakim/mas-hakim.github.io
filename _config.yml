@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://mas-hakim.github.io"
 
 # ТЕМА (Hacker — это максимально близкий к UNIX/Terminal стиль)
-remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-hacker
 
 # Навигация (в этой теме ссылки появятся в шапке автоматически)
 header_pages:
