@@ -1,12 +1,13 @@
-# Основные данные SSoT
+# Основные настройки
 title: "Mas Hakim B.O.S.H"
-description: "Bali Open Sources Hub | Entity SEO Root"
-email: "root-email@company-domain.com"
+description: "Bali Open Sources Hub | Terminal Root"
+baseurl: "" 
+url: "https://mas-hakim.github.io"
 
-# Внешний вид (UNIX/Hacker Style)
-remote_theme: pages-themes/hacker@v0.2.0
+# ТЕМА (Hacker — это максимально близкий к UNIX/Terminal стиль)
+theme: jekyll-theme-hacker
 
-# Навигация (Header)
+# Навигация (в этой теме ссылки появятся в шапке автоматически)
 header_pages:
   - index.md
   - about.md
@@ -14,24 +15,13 @@ header_pages:
   - places.md
   - contacts.md
 
-# Социальные связи для футера и плагина SEO
-twitter_username: hakim_bali
-github_username: Mas-Hakim
-linkedin_username: username
-
-# Плагины (Активируют мета-теги и фиды)
+# Плагины (только те, что разрешены GitHub в safe-mode)
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
 
-# Настройки Markdown
+# Настройки парсера
 markdown: kramdown
-highlighter: rouge # Подсветка кода в стиле терминала
-
-# Исключения
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+kramdown:
+  input: GFM # GitHub Flavored Markdown
