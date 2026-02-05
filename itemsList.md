@@ -1,4 +1,7 @@
-# 🏝️ Bali Properties from OLX
+---
+layout: post
+title: 🏝️ Bali Properties from OLX
+---
 
 > *Extracted on: 2026-02-05*
 
