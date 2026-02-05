@@ -1,4 +1,7 @@
-# Master SEO Strategy & Entity Architecture: Semantic SSoT (Final Edition)
+---
+layout: post
+title: Master SEO Strategy & Entity Architecture: Semantic SSoT (Final Edition)
+---
 
 Данный документ представляет собой финальный стандарт архитектуры связанных данных (Linked Data) для цифровой экосистемы, объединяющей персональный бренд (Person) и коммерческую структуру (Organization).
 
