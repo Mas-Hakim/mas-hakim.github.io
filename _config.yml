@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://mas-hakim.github.io"
 author: "mas Hakim"
 lang: "ru"
+show_downloads: false
 
 # ТЕМА (Hacker — это максимально близкий к UNIX/Terminal стиль)
 theme: jekyll-theme-hacker
