@@ -11,7 +11,7 @@ title: THE B.O.R.S.H
 >**Description:** страница находится в состоянии сильного неадеквата. Не обращайте внимания, постепенно станет легче, проще и понятнее.
 
 <div style="width: 100%; align-items: left;">
-<div style="border: solid 1px rgba(87, 87, 87, 0.5); background-color: #2B2B2C; padding: 1rem; margin: 2rem 0 1rem 4rem; max-width: 50%;">
+<div style="border: solid 1px rgba(87, 87, 87, 0.5); background-color: #2B2B2C; padding: 1rem; margin: 2rem 0 1rem 2.5rem; max-width: 50%;">
 <h3> Как я парсил с olx.id</h3>
   <p>
     Задачи парсинга с больших платформ и маркетплейсов - это боевые будни священной войны с глобализацией и работорговлей. Дело короче хорошее и богоугодное, что самое главное.
@@ -22,7 +22,7 @@ title: THE B.O.R.S.H
 </div>
 </div>
 
-### Привет дорогие друзья!
+## Привет дорогие друзья!
 
 ![Main Image](./images/main.webp)
 
