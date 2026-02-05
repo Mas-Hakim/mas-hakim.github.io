@@ -1,4 +1,5 @@
 ---
+layout: "post"
 title: "Master SEO Strategy & Entity Architecture: Semantic SSoT (Final Edition)"
 ---
 
