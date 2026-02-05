@@ -3,6 +3,8 @@ title: "THE B.O.R.S.H"
 description: "Bali Open Re-Sources Hub | mas-hakim.github.io"
 baseurl: "" 
 url: "https://mas-hakim.github.io"
+author: "mas Hakim"
+lang: "ru"
 
 # ТЕМА (Hacker — это максимально близкий к UNIX/Terminal стиль)
 theme: jekyll-theme-hacker
