@@ -2,8 +2,9 @@
 layout: default
 title: THE B.O.R.S.H
 ---
+
 | [main](./) | [property](./itemsList) | [Schema org](https://mas-hakim.github.io/strategy-person-SEO) | [Astro](https://mas-hakim.github.io/plan) |
-|------|----------|------------|-------|
+|-----|----|---|----|
 
 ## Mas Hakim & B.O.R.S.H : Bali Open Re-Sources Hub 
 >**Description:** страница находится в состоянии сильного неадеквата. Не обращайте внимания, постепенно станет легче, проще и понятнее.
