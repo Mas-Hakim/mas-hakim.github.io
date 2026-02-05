@@ -10,7 +10,7 @@ theme: jekyll-theme-hacker
 # Навигация (в этой теме ссылки появятся в шапке автоматически)
 header_pages:
   - index.md
-  - strategy-person-SEO.md
+  - strategy-person-SEO
   - about.md
   - posts.md
   - places.md
