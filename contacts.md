@@ -4,20 +4,22 @@ title: Contacts
 permalink: /contacts/
 ---
 
-# 📬 Contacts
+# Контакты
 
-## Связаться со мной
+Связаться со мной:
 
-- **GitHub**: [github.com/Mas-Hakim](https://github.com/Mas-Hakim)
-- **Email**: `hakim@borsh.bali` (замените на реальный)
-- **Telegram**: [@mas_hakim](https://t.me/mas_hakim)
-
-## Проекты
-
-- [B.O.R.S.H на GitHub](https://github.com/Mas-Hakim)
-- [OLX парсинг](./pages/olx-parse)
-- [Стратегия SEO](./pages/strategy-person-SEO)
+- Email: sergey.an.mironov@gmail.com
+- Телеграм: @balipearls
+- Моб.: +6285738867684
+- VK: id4250928
+- Facebook: M.A.Hakim.Bali
+- Хабр Карьера: [career.habr.com/mas_hakim](https://career.habr.com/mas_hakim)
 
 ---
 
-*Бали, 2026*
+Проекты и ссылки
+
+- GitHub: [github.com/Mas-Hakim](https://github.com/Mas-Hakim)
+- OLX парсинг: [./pages/olx-parse](./pages/olx-parse)
+- Стратегия SEO: [./pages/strategy-person-SEO](./pages/strategy-person-SEO)
+
