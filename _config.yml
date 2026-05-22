@@ -5,18 +5,25 @@ url: "https://mas-hakim.github.io"
 author: "Mas Hakim"
 lang: "ru"
 
-# ТЕМА - заменяем hacker на midnight
+# ТЕМА 
 theme: minima
 
 minima:
   skin: dark
-
-# Навигация (midnight поддерживает header_pages)
-nav_pages:
-  - index.md
-  - about.md
-  - notes.md
-  - contacts.md
+# Навигация 
+  nav_pages:
+    - index.md
+    - about.md
+    - notes.md
+    - contacts.md
+    
+  social_links:
+    - title: Minima Theme repository at GitHub
+      icon: github
+      url: "https://github.com/jekyll/minima"
+    - title: Jekyll at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/jekyllrb"    
 
 # Плагины
 plugins:
