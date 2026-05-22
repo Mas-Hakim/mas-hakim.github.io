@@ -8,8 +8,11 @@ lang: "ru"
 # ТЕМА - заменяем hacker на midnight
 theme: minima
 
+minima:
+  skin: auto
+
 # Навигация (midnight поддерживает header_pages)
-header_pages:
+nav_pages:
   - index.md
   - about.md
   - notes.md
