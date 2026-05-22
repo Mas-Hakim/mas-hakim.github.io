@@ -13,20 +13,38 @@ theme: jekyll-theme-hacker
 # Навигация (в этой теме ссылки появятся в шапке автоматически)
 header_pages:
   - index.md
-  - ./strategy-person-SEO
+  - blog/index.md
+  - strategy-person-SEO
   - about.md
-  - posts.md
   - places.md
   - contacts.md
+
+# Collections для постов (важно для правильной обработки блога)
+collections:
+  posts:
+    output: true
+    permalink: /blog/:slug/
 
 # Плагины (только те, что разрешены GitHub в safe-mode)
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
 
 # Настройки парсера
 markdown: kramdown
 kramdown:
   input: GFM # GitHub Flavored Markdown
+
+# Исключить из обработки
+exclude:
+  - README.md
+  - .gitignore
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
+
+# Порядок категорий в постах
+post_defaults:
+  layout: post

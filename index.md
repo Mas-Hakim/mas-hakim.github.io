@@ -3,21 +3,21 @@ layout: default
 title: THE B.O.R.S.H
 ---
 
-| [main](./) | [property](./itemsList) | [olx parsing](./olx-parse) | [Schema org](https://mas-hakim.github.io/strategy-person-SEO) | [Astro](https://mas-hakim.github.io/plan) |
-| :----- | :---- | :---- | :---- | :---- |
-| | | | | |
+| [main](./) | [notes](./blog) | [property](./itemsList) | [olx parsing](./olx-parse) | [Schema org](https://mas-hakim.github.io/strategy-person-SEO) | [Astro](https://mas-hakim.github.io/plan) |
+| :----- | :---- | :---- | :---- | :---- | :---- |
+| | | | | | |
 
 ## Mas Hakim & B.O.R.S.H : Bali Open Re-Sources Hub 
->**Description:** страница находится в состоянии сильного неадеквата. Не обращайте внимания, постепенно станет легче, проще и понятнее.
+>**Description:** страница находится в состоянии сильного неадеквата. Не обращайте внимания, постепенно станет лучше! 🚀
 
 <div style="width: 100%; align-items: left;">
 <div style="border: solid 1px rgba(87, 87, 87, 0.5); background-color: #2B2B2C; padding: 1rem; margin: 2rem 0 1rem 2.5rem; max-width: 50%;">
 <h3> Как я парсил с olx.id</h3>
   <p>
-    Задачи парсинга с больших платформ и маркетплейсов - это боевые будни священной войны с глобализацией и работорговлей. Дело короче хорошее и богоугодное, что самое главное.
+    Задачи парсинга с больших платформ и маркетплейсов - это боевые будни священной войны с глобализацией и мировым капиталом. Справиться помогут инструменты, вот некоторые из них.
   </p>
   <p >
-    <a href="./olx-parse">Вот это ссылка на заметку с подробным описанием полуавтоматического парсинга, который легко превращается в автоматический</a>
+    <a href="./olx-parse">Вот это ссылка на заметку с подробным описанием полуавтоматического парсинга, который легко адаптировать под свои нужды</a>
   </p>
 </div>
 </div>
