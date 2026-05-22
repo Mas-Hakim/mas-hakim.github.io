@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: base
 title: Notes
 permalink: /blog/
 ---
 
-# 📝 Notes & Blog
+# Notes & Blog
 
 > Коллекция заметок, статей и гайдов о веб-разработке, DevOps и открытых технологиях.
 
@@ -51,83 +51,6 @@ permalink: /blog/
   <p class="no-posts">Постов пока нет. Скоро будут! 🚀</p>
 {% endif %}
 
----
-
-<style>
-.posts-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
-.post-item {
-  border: 1px solid rgba(87, 87, 87, 0.3);
-  padding: 1.5rem;
-  border-radius: 4px;
-  transition: all 0.3s ease;
-}
-
-.post-item:hover {
-  border-color: rgba(87, 87, 87, 0.6);
-  background-color: rgba(87, 87, 87, 0.05);
-}
-
-.post-item h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-.post-item h3 a {
-  color: #0ff;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.post-item h3 a:hover {
-  text-decoration: underline;
-}
-
-.post-meta {
-  color: #888;
-  font-size: 0.9rem;
-  margin-bottom: 0.5rem;
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.post-excerpt {
-  margin: 0.5rem 0;
-  color: #ccc;
-}
-
-.post-tags {
-  margin-top: 0.5rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem;
-}
-
-.tag {
-  display: inline-block;
-  background: rgba(87, 87, 87, 0.1);
-  padding: 0.3rem 0.6rem;
-  border-radius: 3px;
-  font-size: 0.85rem;
-  color: #0ff;
-  opacity: 0.8;
-}
-
-.tag:hover {
-  opacity: 1;
-}
-
-.no-posts {
-  color: #999;
-  text-align: center;
-  padding: 2rem;
-}
 
 code {
   background: rgba(87, 87, 87, 0.2);
