@@ -2,14 +2,17 @@
 title: "THE B.O.R.S.H"
 description: "Bali Open Re-Sources Hub"
 url: "https://mas-hakim.github.io"
-author: "Mas Hakim"
+author: 
+  name: Mas Hakim
+  email: sergey.an.mironov@gmail.com
 lang: "ru"
 
 # ТЕМА 
 theme: minima
 
 minima:
-  skin: dark
+  skin: 
+    - dark
 # Навигация 
   nav_pages:
     - index.md
