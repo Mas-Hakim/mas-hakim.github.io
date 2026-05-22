@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -35,81 +35,5 @@ title: Home
 
 ---
 
-## 👤 About me
 
-Живу на Бали, занимаюсь веб-разработкой и автоматизацией.  
-В этом блоге пишу о:
 
-- 🚀 Современном фронтенде (Astro, React, Jekyll)
-- 🤖 Парсинге и автоматизации (Python, Bash)
-- 🏝️ Жизни на Бали и полезных ресурсах
-
----
-
-## 📬 Contacts
-
-- **GitHub**: [Mas-Hakim](https://github.com/Mas-Hakim)
-- **Email**: hakim@example.com (замените на реальный)
-- **Telegram**: @mas_hakim (если есть)
-
----
-
-<style>
-  .posts-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
-  }
-
-  .post-card {
-    border: 1px solid rgba(255,255,255,0.2);
-    padding: 1.2rem;
-    border-radius: 8px;
-    background: rgba(0,0,0,0.3);
-    transition: transform 0.2s;
-  }
-
-  .post-card:hover {
-    transform: translateY(-4px);
-    border-color: rgba(255,255,255,0.4);
-  }
-
-  .post-card h3 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-  }
-
-  .post-card h3 a {
-    color: #fff;
-    text-decoration: none;
-  }
-
-  .post-card h3 a:hover {
-    text-decoration: underline;
-  }
-
-  .post-meta {
-    color: #aaa;
-    font-size: 0.85rem;
-    margin-bottom: 0.8rem;
-  }
-
-  .read-more {
-    display: inline-block;
-    margin-top: 0.8rem;
-    color: #0ff;
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  .read-more:hover {
-    text-decoration: underline;
-  }
-
-  /* Для тёмной темы midnight */
-  body {
-    background: #111;
-    color: #eee;
-  }
-</style>
