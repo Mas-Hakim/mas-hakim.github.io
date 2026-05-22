@@ -6,7 +6,7 @@ author: "Mas Hakim"
 lang: "ru"
 
 # ТЕМА - заменяем hacker на midnight
-theme: jekyll-theme-midnight
+theme: minima
 
 # Навигация (midnight поддерживает header_pages)
 header_pages:
