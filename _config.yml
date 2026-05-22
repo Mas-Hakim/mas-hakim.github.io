@@ -5,15 +5,15 @@ url: "https://mas-hakim.github.io"
 author: "Mas Hakim"
 lang: "ru"
 
-# Тёмная тема (совместимая)
+# ТЕМА - заменяем hacker на midnight
 theme: jekyll-theme-midnight
 
-# Навигация (автоматически создаст меню)
+# Навигация (midnight поддерживает header_pages)
 header_pages:
-  - index.md      # Home
-  - about.md      # About
-  - notes.md      # Notes
-  - contacts.md   # Contact
+  - index.md
+  - about.md
+  - notes.md
+  - contacts.md
 
 # Плагины
 plugins:
@@ -21,12 +21,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Настройки
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Исключить из обработки
 exclude:
   - README.md
   - .gitignore
@@ -35,9 +33,4 @@ exclude:
   - pages/
   - blog/
 
-# Формат ссылок на посты
 permalink: /blog/:title/
-
-# Количество постов на главной
-paginate: 3
-paginate_path: "/blog/page:num/"
