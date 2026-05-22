@@ -1,66 +1,115 @@
 ---
 layout: default
-title: THE B.O.R.S.H
+title: Home
 ---
 
-| [main](./) | [notes](./blog) | [property](./itemsList) | [olx parsing](./olx-parse) | [Schema org](https://mas-hakim.github.io/strategy-person-SEO) | [Astro](https://mas-hakim.github.io/plan) |
-| :----- | :---- | :---- | :---- | :---- | :---- |
-| | | | | | |
+# Добро пожаловать в B.O.R.S.H
 
-## Mas Hakim & B.O.R.S.H : Bali Open Re-Sources Hub 
->**Description:** страница находится в состоянии сильного неадеквата. Не обращайте внимания, постепенно станет лучше! 🚀
-
-<div style="width: 100%; align-items: left;">
-<div style="border: solid 1px rgba(87, 87, 87, 0.5); background-color: #2B2B2C; padding: 1rem; margin: 2rem 0 1rem 2.5rem; max-width: 50%;">
-<h3> Как я парсил с olx.id</h3>
-  <p>
-    Задачи парсинга с больших платформ и маркетплейсов - это боевые будни священной войны с глобализацией и мировым капиталом. Справиться помогут инструменты, вот некоторые из них.
-  </p>
-  <p >
-    <a href="./olx-parse">Вот это ссылка на заметку с подробным описанием полуавтоматического парсинга, который легко адаптировать под свои нужды</a>
-  </p>
-</div>
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="./images/main.webp" alt="Bali" style="max-width: 100%; border-radius: 8px;">
 </div>
 
-## Привет дорогие друзья!
+> **Bali Open Re-Sources Hub** — открытое сообщество для обмена знаниями, опытом и ресурсами на Бали.
 
-![Main Image](./images/main.webp)
-
-<small>Здесь будет весело!</small>
-
-## Присоединяйтесь! 
-```txt
-Здесь будут последние Балийские новости и события на русском языке,
-переданные непосредственным и безхитростным языком балижителя,
-пребывающего в добром здравии и балансе на острове уже 12 лет !
-Всем привет с солнечного и дождливого чудного острова. 
-```
-Ура товарищи! Ура!
-
-С солнечным приветом, Сергей. :) 
-
-`God bless you`
+Привет! Меня зовут **Mas Hakim**. Я живу на Бали уже 12 лет и делюсь заметками о веб-разработке, DevOps, парсинге и жизни на острове.
 
 ---
 
-04.02.2026 Mas Hakim (c)
+## 📝 Последние заметки
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebPage",
-      "@id": "https://mas-hakim.github.io",
-      "url": "https://mas-hakim.github.io",
-      "name": "THE B.O.R.S.H"
-    },
-    {
-      "@type": "Person",
-      "@id": "https://mas-hakim.github.io",
-      "name": "Mas Hakim",
-      "sameAs": ["https://github.com/Mas-Hakim"]
-    }
-  ]
-}
-</script>
+<div class="posts-grid">
+  {% assign recent_posts = site.posts | sort: 'date' | reverse | limit: 3 %}
+  {% for post in recent_posts %}
+    <div class="post-card">
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      <div class="post-meta">
+        <time>{{ post.date | date: "%d.%m.%Y" }}</time>
+      </div>
+      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+      <a href="{{ post.url }}" class="read-more">Читать →</a>
+    </div>
+  {% endfor %}
+</div>
+
+---
+
+## 👤 About me
+
+Живу на Бали, занимаюсь веб-разработкой и автоматизацией.  
+В этом блоге пишу о:
+
+- 🚀 Современном фронтенде (Astro, React, Jekyll)
+- 🤖 Парсинге и автоматизации (Python, Bash)
+- 🏝️ Жизни на Бали и полезных ресурсах
+
+---
+
+## 📬 Contacts
+
+- **GitHub**: [Mas-Hakim](https://github.com/Mas-Hakim)
+- **Email**: hakim@example.com (замените на реальный)
+- **Telegram**: @mas_hakim (если есть)
+
+---
+
+<style>
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .post-card {
+    border: 1px solid rgba(255,255,255,0.2);
+    padding: 1.2rem;
+    border-radius: 8px;
+    background: rgba(0,0,0,0.3);
+    transition: transform 0.2s;
+  }
+
+  .post-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(255,255,255,0.4);
+  }
+
+  .post-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .post-card h3 a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .post-card h3 a:hover {
+    text-decoration: underline;
+  }
+
+  .post-meta {
+    color: #aaa;
+    font-size: 0.85rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .read-more {
+    display: inline-block;
+    margin-top: 0.8rem;
+    color: #0ff;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .read-more:hover {
+    text-decoration: underline;
+  }
+
+  /* Для тёмной темы midnight */
+  body {
+    background: #111;
+    color: #eee;
+  }
+</style>
