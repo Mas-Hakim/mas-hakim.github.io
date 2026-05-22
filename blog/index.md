@@ -9,7 +9,7 @@ title: Notes
 
 ---
 
-{% assign posts = site.static_files | where: "extname", ".md" | where: "dir", "/blog" %}
+{% assign posts = site.static_files | where: "extname", ".html" | where: "dir", "/blog" %}
 
 {% if posts.size > 0 %}
 <div class="posts-list">
