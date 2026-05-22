@@ -8,6 +8,9 @@ title: Notes
 > Коллекция заметок, статей и гайдов о веб-разработке, DevOps и открытых технологиях.
 
 ---
+<pre>
+site.posts: {{ site.posts | map: 'path' | join: ', ' }}
+</pre>
 
 {% if site.posts.size > 0 %}
   <div class="posts-list">
