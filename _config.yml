@@ -7,10 +7,10 @@ author: "mas Hakim"
 lang: "ru"
 show_downloads: false
 
-# ТЕМА (Hacker — это максимально близкий к UNIX/Terminal стиль)
+# ТЕМА
 theme: jekyll-theme-hacker
 
-# Навигация (ссылки в шапке)
+# Навигация
 header_pages:
   - index.md
   - notes.md
@@ -18,18 +18,11 @@ header_pages:
   - places.md
   - contacts.md
 
-# Collections для постов Jekyll (стандартная папка _posts)
-collections:
-  posts:
-    output: true
-    permalink: /blog/:title/
-
 # Плагины
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 # Настройки парсера
 markdown: kramdown
@@ -43,4 +36,6 @@ exclude:
   - node_modules/
   - Gemfile
   - Gemfile.lock
-  - blog/
+
+# Формат ссылок на посты
+permalink: /blog/:title/
