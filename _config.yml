@@ -10,22 +10,21 @@ show_downloads: false
 # ТЕМА (Hacker — это максимально близкий к UNIX/Terminal стиль)
 theme: jekyll-theme-hacker
 
-# Навигация (в этой теме ссылки появятся в шапке автоматически)
+# Навигация (ссылки в шапке)
 header_pages:
   - index.md
-  - blog/index.md
-  - strategy-person-SEO
+  - notes.md
   - about.md
   - places.md
   - contacts.md
 
-# Collections для постов (важно для правильной обработки блога)
+# Collections для постов Jekyll (стандартная папка _posts)
 collections:
   posts:
     output: true
-    permalink: /blog/:slug/
+    permalink: /blog/:title/
 
-# Плагины (только те, что разрешены GitHub в safe-mode)
+# Плагины
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
@@ -35,7 +34,7 @@ plugins:
 # Настройки парсера
 markdown: kramdown
 kramdown:
-  input: GFM # GitHub Flavored Markdown
+  input: GFM
 
 # Исключить из обработки
 exclude:
@@ -44,7 +43,4 @@ exclude:
   - node_modules/
   - Gemfile
   - Gemfile.lock
-
-# Порядок категорий в постах
-post_defaults:
-  layout: post
+  - blog/
