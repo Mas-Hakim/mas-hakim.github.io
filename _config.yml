@@ -9,7 +9,7 @@ lang: "ru"
 theme: minima
 
 minima:
-  skin: auto
+  skin: dark
 
 # Навигация (midnight поддерживает header_pages)
 nav_pages:
