@@ -1,11 +1,10 @@
-title: Your awesome title
+title: THE B.O.R.S.H
 author:
-  name: Halo Saur
+  name: mas Hakim
+  email: sergey.an.mronov@gmail.com
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Bali Open Re-Sources Hub is an open community for sharing knowledge, experiences, and resources in Bali.
 
 remote_theme: "jekyll/minima@1e8a445"
 
