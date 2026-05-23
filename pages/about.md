@@ -6,9 +6,12 @@ permalink: /about/
 
 ### **Сергей Миронов**
 
-* ### Аналитика,
-* ### Управление как наука,
-* ### Инжиниринг
+* ### Аналитика;
+* ### Управление;
+* ### Проектирование систем;
+* ### Инжиниринг и Архитектура систем.
+
+TQM, Логика, Стандартизация, Оптимизация
 
 ---
 
@@ -27,10 +30,10 @@ permalink: /about/
 
 | **skills** | | | | | | |
 |---|----|----|---|----|----|---|
-| Стратегическое управление | Управление проектами | Управление бизнес-процессами | Организация бизнес-процессов | Marketing Strategy | Операционный Менеджемент | PR Strategy |
+| Стратегическое управление | Управление проектами | Управление бизнес-процессами | Организация бизнес-процессов TQM ISO:9001 | Marketing Strategy | Операционный Менеджемент | PR Strategy |
 | Linux QNX Ubuntu | Go cpp Python | SQL WebDAV S3 | Bash Shell Iptables Sockets | TS  JS6+ ESM Node Bun | WEB HTML Vite Nginx Alpine | RTS Timers sync/async AUDIO MP3 |
 |TCP WebSockets HTTP Network Routing | XML RSS | CSS Tailwind WebComponents | Веб-разработка | Верстка лендингов | SVG PSD | AI LLM API |
-| Astro FlyonUI shadcn/ui Jekyll | CFWorker, D1 GitHub Wrangler | Kubernetes | Docker  Portainer YAML TOML | Next.js  React | REST API | OpenApi Swagger  | 
+| Astro FlyonUI shadcn/ui Jekyll | CFWorker, D1 GitHub Wrangler | System Architecture | Kubernetes Docker  Portainer YAML TOML | Next.js  React | REST API | OpenApi Swagger  | 
 
 ---
 
