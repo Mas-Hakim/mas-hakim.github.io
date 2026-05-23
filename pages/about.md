@@ -27,10 +27,10 @@ permalink: /about/
 
 | **skills** | | | | | | |
 |---|----|----|---|----|----|---|
-| Linux | Go | Python | Bash | TS | HTML | JS6+ |
-|Стратегическое управление | Управление проектами | Управление бизнес-процессами | Организация бизнес-процессов | Iptables | WebSockets | Маршрутизация |
-|TCP | Настройка RSS | CSS | Веб-разработка | Верстка лендингов | SVG | Адаптивная верстка |
-| Astro FlyonUI  React shadcn/ui | CFWorker, D1 | Wrangler | Docker | GitHub | REST API | OpenApi Swagger  | 
+| Стратегическое управление | Управление проектами | Управление бизнес-процессами | Организация бизнес-процессов | Marketing Strategy | Операционный Менеджемент | PR Strategy |
+| Linux QNX Ubuntu | Go cpp Python | SQL WebDAV S3 | Bash Shell Iptables Sockets | TS  JS6+ ESM Node Bun | WEB HTML Vite Nginx Alpine | RTS Timers sync/async AUDIO MP3 |
+|TCP WebSockets HTTP Network Routing | XML RSS | CSS Tailwind WebComponents | Веб-разработка | Верстка лендингов | SVG PSD | AI LLM API |
+| Astro FlyonUI shadcn/ui Jekyll | CFWorker, D1 GitHub Wrangler | Kubernetes | Docker  Portainer YAML TOML | Next.js  React | REST API | OpenApi Swagger  | 
 
 ---
 
