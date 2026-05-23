@@ -2,8 +2,8 @@
 title: "THE B.O.R.S.H"
 description: "Bali Open Re-Sources Hub"
 author: 
-  name: Mas Hakim
-  email: sergey.an.mironov@gmail.com
+  name: "Mas Hakim"
+  email: "sergey.an.mironov@gmail.com"
 
 # ТЕМА 
 theme: minima
@@ -30,7 +30,6 @@ minima:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-sitemap
 
 sass:
   quiet_deps: true
