@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   repo: Mas-Hakim/mas-hakim.github.io
   branch: main  # или master, если у вас старая ветка по умолчанию
-  site_domain: mas-hakim.github.io
+  site_domain: balinear.netlify.app
 
 # Настройки загрузки медиафайлов (картинок для постов)
 media_folder: "assets/images/uploads"
