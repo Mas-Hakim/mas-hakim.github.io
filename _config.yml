@@ -11,14 +11,15 @@ lang: "ru"
 theme: minima
 
 minima:
-  skin: 
-    - dark
+  skin: dark
 # Навигация 
   nav_pages:
     - index.md
-    - about.md
-    - notes.md
+    - about.md    
     - contacts.md
+    - notes.md
+
+  show_excerpts: false    
     
   social_links:
     - title: Minima Theme repository at GitHub
@@ -34,16 +35,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]  
+
 markdown: kramdown
 kramdown:
   input: GFM
 
-exclude:
-  - README.md
-  - .gitignore
-  - Gemfile
-  - Gemfile.lock
-  - pages/
-  - blog/
 
-permalink: /blog/:title/
