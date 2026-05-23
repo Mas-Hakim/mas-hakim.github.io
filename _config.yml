@@ -4,14 +4,20 @@ description: "Bali Open Re-Sources Hub"
 author: 
   name: "Mas Hakim"
   email: "sergey.an.mironov@gmail.com"
-
-# ТЕМА 
+  
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 minima:
   skin: dark
 
-# Навигация 
   nav_pages:
     - about.md    
     - notes.md
@@ -24,19 +30,7 @@ minima:
       url: "https://github.com/jekyll/minima"
     - title: Jekyll at X (formerly Twitter)
       icon: x-twitter
-      url: "https://x.com/jekyllrb"    
+      url: "https://x.com/jekyllrb"     
 
-# Плагины
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]  
-
-markdown: kramdown
-kramdown:
-  input: GFM
 
 
