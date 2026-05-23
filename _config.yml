@@ -1,7 +1,8 @@
 # Основные настройки
 title: "THE B.O.R.S.H"
 
-description: "Bali Open Re-Sources Hub"
+description: >
+  Bali Open Re-Sources Hub
 
 author: 
   name: halosaur
@@ -20,10 +21,6 @@ sass:
 minima:
   skin: dark
 
-  nav_pages:
-    - about.md    
-    - notes.md
-
   show_excerpts: false    
     
   social_links:
@@ -33,6 +30,4 @@ minima:
     - title: Jekyll at X (formerly Twitter)
       icon: x-twitter
       url: "https://x.com/jekyllrb"     
-
-
-
+      
