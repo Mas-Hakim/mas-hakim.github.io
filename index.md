@@ -40,9 +40,11 @@ title: THE B.O.R.S.H Home Page
 remote_theme: "jekyll/minima@1e8a445"
 # без отступа слева
 ```
+
 2. Настройка Theme : Minima
 > Напиши в точности так и не думай :
-```yml
+
+~~~yml
 title: Название сайта - будет на header и в <title>
 author:
   name: твоё displayed name
@@ -61,8 +63,8 @@ plugins:
 sass:
   quiet_deps: true
   silence_deprecations: [import]
+~~~
 
-```
 3. Настройка skin для темы.
 > В настройках `minima:` НИГДЕ не написано что `skin: "dark"` именнно в кавычках работает а без кавычек - нет. Видимо это уже специфика либо jekyll либо GItHub
 ```yaml
