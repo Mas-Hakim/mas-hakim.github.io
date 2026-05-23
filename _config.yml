@@ -17,10 +17,9 @@ sass:
   silence_deprecations: [import]
 
 header_pages:
-  - pages/notes.md
   - pages/about.md
   - pages/contacts.md
-  - index.md
+  - pages/notes.md
 
 minima:
   # Minima skin selection. Available skins are:
