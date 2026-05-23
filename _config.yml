@@ -56,7 +56,7 @@ minima:
   #     * url      Full URL of social profile.
   social_links:
     - title: Minima Theme repository at GitHub
-      icon: github
+      icon: vk
       url: "https://github.com/jekyll/minima"
     - title: Jekyll at X (formerly Twitter)
       icon: x-twitter
