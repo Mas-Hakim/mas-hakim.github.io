@@ -9,9 +9,9 @@ permalink: /contacts/
 Связаться со мной:
 
 - Email: sergey.an.mironov@gmail.com
-- Телеграм: @balipearls
-- Моб.: +6285738867684
-- VK: id4250928
+- Телеграм: [@IND_EX](https://t.me/IND_EX)
+- WhatsApp.: [+6285738867684](wa.me/6285738867684)
+- VK: [id4250928](https://vk.com/id4250928)
 - Facebook: M.A.Hakim.Bali
 - Хабр Карьера: [career.habr.com/mas_hakim](https://career.habr.com/mas_hakim)
 
@@ -20,6 +20,4 @@ permalink: /contacts/
 Проекты и ссылки
 
 - GitHub: [github.com/Mas-Hakim](https://github.com/Mas-Hakim)
-- OLX парсинг: [./pages/olx-parse](./pages/olx-parse)
-- Стратегия SEO: [./pages/strategy-person-SEO](./pages/strategy-person-SEO)
 
