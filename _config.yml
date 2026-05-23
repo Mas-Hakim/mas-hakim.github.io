@@ -55,7 +55,7 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: VK: Mironov Sergey  
+    - title: VK Mironov Sergey  
       icon: vk
       url: "https://vk.com/id4250928"
     - title: Связаться в Telegram
