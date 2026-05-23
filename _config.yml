@@ -18,8 +18,8 @@ sass:
   silence_deprecations: [import]
 
 header_pages:
-  - _pages/about.md
-  - _pages/contact.md
+  - /_pages/about.md
+  - contact.md
 
 minima:
   # Minima skin selection. Available skins are:
