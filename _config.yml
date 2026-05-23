@@ -10,11 +10,10 @@ theme: minima
 
 minima:
   skin: dark
+
 # Навигация 
-  nav_pages:
-    - index.md
+  header_pages:
     - about.md    
-    - contacts.md
     - notes.md
 
   show_excerpts: false    
