@@ -1,11 +1,9 @@
 # Основные настройки
 title: "THE B.O.R.S.H"
 description: "Bali Open Re-Sources Hub"
-url: "https://mas-hakim.github.io"
 author: 
   name: Mas Hakim
   email: sergey.an.mironov@gmail.com
-lang: "ru"
 
 # ТЕМА 
 theme: minima
