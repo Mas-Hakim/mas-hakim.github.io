@@ -42,7 +42,7 @@ remote_theme: "jekyll/minima@1e8a445"
 # без отступа слева
 ```
 
-* Настройка Theme : Minima
+* ### **Настройка Theme : Minima**
 
 > Напиши в точности так и не думай :
 
