@@ -12,7 +12,7 @@ minima:
   skin: dark
 
 # Навигация 
-  header_pages:
+  nav_pages:
     - about.md    
     - notes.md
 
