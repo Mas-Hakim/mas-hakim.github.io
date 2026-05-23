@@ -20,7 +20,7 @@ sass:
 header_pages:
   - pages/about.md
   - pages/contact.md
-  - index.md
+  - /index.md
 
 minima:
   # Minima skin selection. Available skins are:
