@@ -94,6 +94,8 @@ header_pages:
   
 >Футер адекватно заработал только после подключения через remote-theme как написано в пункте №1
 
+[**link:** Естественно можно посмотреть `_config`](https://github.com/Mas-Hakim/mas-hakim.github.io/blob/main/_config.yml)
+
 ## Приятного всем блоггинга!
 
 <div style="text-align: center; margin: 4rem auto 2rem;">
