@@ -1,9 +1,9 @@
 # Настройки бэкэнда. При интеграции с Netlify используется git-gateway
 backend:
   name: git-gateway
-  branch: main # или master, смотря какая у вас ветка по умолчанию
-  # Добавьте эту строку (замените на ваше реальное имя проекта в Netlify):
-  site_domain: balinear.netlify.app  
+  repo: Mas-Hakim/mas-hakim.github.io
+  branch: main  # или master, если у вас старая ветка по умолчанию
+  site_domain: mas-hakim.github.io
 
 # Настройки загрузки медиафайлов (картинок для постов)
 media_folder: "assets/images/uploads"
