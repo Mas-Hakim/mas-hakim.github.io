@@ -17,6 +17,10 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
+header_pages:
+  - _pages/about.md
+  - _pages/contact.md
+
 minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
@@ -33,7 +37,7 @@ minima:
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
   nav_pages:
-    - pages/about.md
+    - about.md
     
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
