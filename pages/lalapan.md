@@ -28,7 +28,7 @@ description: lalapan project budjet and checklist
 
 #### 3. Konstruksi Komponen Komersial & Meja (Commercial Structures & Furniture)
 | Komponen / *Component* | Spesifikasi / *Specifications* | Qty | Biaya / *Cost (IDR)* |
-|:---|:---|:---|
+|:---|:---|:---|:---|
 | **Rombong Lipat Alumunium** | Meja lipat alumunium ringan untuk kompor & etalase.<br>*Lightweight aluminum folding counter for stoves & showcase.* | 1 | 2,500,000 |
 | **Etalase Kaca Pajangan** | Ukuran 100x40x50 cm untuk visual display ayam.<br>*100x40x50 cm glass showcase for chicken visual display.* | 1 | 850,000 |
 | **Tenda Lipat Portable** | Ukuran 3x3m atau 4x4m model rangka besi lipat.<br>*3x3m or 4x4m accordion-style heavy-duty folding tent.* | 1 | 1,100,000 |
@@ -37,7 +37,7 @@ description: lalapan project budjet and checklist
 #### 4. Dapur Panas - Sistem Memasak (Hot Kitchen - Cooking System)
 
 | Komponen / *Component* | Spesifikasi / *Specifications* | Qty | Biaya / *Cost (IDR)* |
-|:---|:---|:---|
+|:---|:---|:---|:---|
 | **Rice Cooker Domestik Besar** | Pengolah nasi kapasitas besar tipe rumah tangga.<br>*Large capacity domestic-type rice cookers.* | 2 | 900,000<br>*(450,000 / unit)* |
 | **Kompor Gas High Pressure** | Tipe cor komersial (Mawar) untuk deep fry cepat.<br>*Commercial cast-iron type for rapid deep frying.* | 2 | 1,400,000<br>*(700,000 / unit)* |
 | **Kompor Gas Blok 3 Tungku** | Unit domestik untuk pengolahan sambal & bumbu.<br>*Domestic 3-burner block unit for sambal & sauces.* | 2 | 1,200,000<br>*(600,000 / unit)* |
@@ -65,8 +65,9 @@ description: lalapan project budjet and checklist
 | **Tempat Sampah Komersial** | Tipe tong besar (120L) untuk pembersihan area parkir.<br>*Large 120L bins for comprehensive lot cleanup.* | 2 | 180,000 |
 
 #### 7. Perlengkapan Makan & Bahan Baku Awal (Dining Hardware & First Inventory)
+
 | Komponen / *Component* | Spesifikasi / *Specifications* | Volume | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- | :--- |
+|:---|:---|:---|:---|
 | **Meja Lipat Panjang** | Dimensi 180 cm, struktur lipat HDPE kokoh.<br>*180 cm long folding tables, rigid HDPE structure.* | 2 | 900,000 |
 | **Bangku Panjang Lipat** | Model bangku memanjang (kapasitas 3-4 orang per bangku).<br>*Long folding benches (3-4 people capacity per bench).* | 4 | 1,200,000 |
 | **Piring Lidi & Kertas Minyak** | Alas makan anyaman + kertas laminasi anti-cuci.<br>*Woven palm leaf plates + laminated non-wash paper liners.* | 1 set | 415,000 |
