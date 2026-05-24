@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Notes
+title: Notes : Blog
 permalink: /blog/
 ---
-
-# Notes & Blog
-
-> Коллекция заметок, статей и гайдов о веб-разработке, DevOps и открытых технологиях.
+> Коллекция рассказов, заметок, статей и гайдов про Бали, про жизнь и про технологии. 
 
 {% if site.posts.size > 0 %}
   <div>
