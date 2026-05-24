@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes : Blog
+title: 'Notes : Blog'
 permalink: /blog/
 ---
 > Коллекция рассказов, заметок, статей и гайдов про Бали, про жизнь и про технологии. 
