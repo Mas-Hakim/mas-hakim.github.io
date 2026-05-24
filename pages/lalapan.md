@@ -1,40 +1,43 @@
 ---
 layout: page
-title: lalapan
+title: "EQUIPMENT CECKLIST, BUDGET, & ARCHITECTURE BUAT LALAPAN"
 description: lalapan project budjet and checklist
 ---
 
-## 📋 DAFTAR PERALATAN, ANGGARAN, DAN ARSITEKTUR LALAPAN
-### (EQUIPMENT CHECKLIST, BUDGET, AND ARCHITECTURE FOR LALAPAN)
+## DAFTAR PERALATAN, ANGGARAN, DAN ARSITEKTUR LALAPAN
+> EQUIPMENT CHECKLIST, BUDGET, AND ARCHITECTURE FOR LALAPAN
 
 ---
 
 ### I. MATRIKS ANGGARAN & BIAYA (BUDGET & COST MATRIX)
 
 #### 1. Blok Hukum & Sewa Tempat (Legal & Location Block)
+
 | Komponen / *Component* | Spesifikasi / *Specifications* | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- |
-| **Sewa Lapak (Parking/Bengkel)** | Akses listrik 3.5 kW, air bersih, & drainase (17:00 - 01:00).<br>*Access to 3.5 kW power, fresh water, & drainage.* | 1,000,000 / bln *(mo)* |
+|:---|:---|:---|
+| **Sewa Lapak (Parking/Bengkel)** | Akses listrik 3.5 kW, air PDAM, & drainase akses (17:00 - 01:00).<br>*Access to 3.5 kW power, fresh water, & drainage.* | 1,000,000 / bln *(mo)* |
 | **Iuran Banjar / Pecalang** | Koordinasi keamanan komunitas lokal Ungasan.<br>*Local community security and coordination fee.* | 250,000 / bln *(mo)* |
 | **Deposit Tempat** | Jaminan sewa awal lokasi (dibayar sekali).<br>*Initial location security deposit (one-time).* | 1,000,000 (kapex) |
 
 #### 2. Logistik & Pangkalan Utama (Logistics & Main Base)
+
 | Komponen / *Component* | Spesifikasi / *Specifications* | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- |
+|:---|:---|:---|
 | **Gudang + Mess Owner** | Lokasi pusat persiapan, penyimpanan stok, & tempat tinggal.<br>*Central prep hub, inventory storage, & owner residence.* | 5,000,000 / bln *(mo)* |
 | **Outsourcing Pikap** | Armada pihak ketiga untuk drop & pickup harian + bantuan kru.<br>*Third-party truck daily drop & pickup + crew assistance.* | 4,500,000 / bln *(mo)*<br>*(150,000 / hari)* |
 
 #### 3. Konstruksi Komponen Komersial & Meja (Commercial Structures & Furniture)
 | Komponen / *Component* | Spesifikasi / *Specifications* | Qty | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- | :--- |
+|:---|:---|:---|
 | **Rombong Lipat Alumunium** | Meja lipat alumunium ringan untuk kompor & etalase.<br>*Lightweight aluminum folding counter for stoves & showcase.* | 1 | 2,500,000 |
 | **Etalase Kaca Pajangan** | Ukuran 100x40x50 cm untuk visual display ayam.<br>*100x40x50 cm glass showcase for chicken visual display.* | 1 | 850,000 |
 | **Tenda Lipat Portable** | Ukuran 3x3m atau 4x4m model rangka besi lipat.<br>*3x3m or 4x4m accordion-style heavy-duty folding tent.* | 1 | 1,100,000 |
 | **Spanduk Lalapan Banner** | Bahan terpal PVC dengan visual terang malam hari.<br>*PVC banner material with high-contrast night visibility.* | 2 | 300,000 |
 
 #### 4. Dapur Panas - Sistem Memasak (Hot Kitchen - Cooking System)
+
 | Komponen / *Component* | Spesifikasi / *Specifications* | Qty | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- | :--- |
+|:---|:---|:---|
 | **Rice Cooker Domestik Besar** | Pengolah nasi kapasitas besar tipe rumah tangga.<br>*Large capacity domestic-type rice cookers.* | 2 | 900,000<br>*(450,000 / unit)* |
 | **Kompor Gas High Pressure** | Tipe cor komersial (Mawar) untuk deep fry cepat.<br>*Commercial cast-iron type for rapid deep frying.* | 2 | 1,400,000<br>*(700,000 / unit)* |
 | **Kompor Gas Blok 3 Tungku** | Unit domestik untuk pengolahan sambal & bumbu.<br>*Domestic 3-burner block unit for sambal & sauces.* | 2 | 1,200,000<br>*(600,000 / unit)* |
@@ -44,16 +47,18 @@ description: lalapan project budjet and checklist
 | **Peralatan Masak Saringan** | Penjepit stik panjang, tirisan minyak, & serokan.<br>*Long steel tongs, oil drainers, and skimmers.* | 1 set | 300,000 |
 
 #### 5. Dapur Dingin & Peralatan Persiapan (Cold Kitchen & Prep Gear)
+
 | Komponen / *Component* | Spesifikasi / *Specifications* | Qty | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- | :--- |
+|:---|:---|:---|:---|
 | **Cobek Batu Kali Asli** | Diameter 35-40 cm untuk ulekan manual di tempat.<br>*35-40 cm genuine river stone mortar for on-site prep.* | 1 | 350,000 |
 | **Blender / Chopper Bumbu** | Penggiling bumbu dapur elektrik (dipakai di gudang).<br>*Electric food chopper/grinder (used at the base).* | 1 | 650,000 |
 | **Box Container XL** | Wadah plastik kedap untuk distribusi ayam dingin & es.<br>*Airtight plastic containers for chilled chicken & ice transport.* | 6 | 480,000 |
 | **Pisau & Talenan Kasar** | Pisau potong tulang, pisau sayur, & talenan tebal.<br>*Cleavers, vegetable knives, & heavy-duty cutting boards.* | 1 set | 400,000 |
 
 #### 6. Jaringan Listrik, Sanitasi & Kebersihan (Power, Water & Cleaning Grid)
+
 | Komponen / *Component* | Spesifikasi / *Specifications* | Qty | Biaya / *Cost (IDR)* |
-| :--- | :--- | :--- | :--- |
+|:---|:---|:---|:---|
 | **Kabel Ekstensi Custom 20m** | Kabel serabut tebal dalam selang pelindung (anti-lindas).<br>*Thick stranded cable inside a protective hose conduit.* | 2 | 700,000<br>*(350,000 / unit)* |
 | **Sistem Lampu LED Sorot** | 2x LED 50W putih (luar) + 2x LED kuning hangat (meja).<br>*2x 50W cool white LED (outer) + 2x warm yellow LED (tables).* | 1 set | 450,000 |
 | **Sistem Kobokan & Dispenser** | Ember air kran harian + mangkok cuci tangan tamu.<br>*Freshwater tap barrel + guest handwashing bowls.* | 1 set | 250,000 |
@@ -72,7 +77,7 @@ description: lalapan project budjet and checklist
 ### REKAPITULASI BIAYA JALUR CEPAT (GRAND TOTAL SUMMARY)
 
 | Kategori Pengeluaran / *Expense Category* | Alokasi Modal / *Capital Allocation* | Jumlah / *Amount (IDR)* |
-| :--- | :--- | :--- |
+|:---|:---|:---|
 | **Biaya Tetap Awal (One-time Capex)** | Kompor, Kabel, Tenda, Meja, Rombong, Alat Dapur. | 16,335,000 |
 | **Biaya Operasional Bulan 1 (Opex Mo-1)** | Sewa Lapak, Banjar, Gudang, Driver Pikap, Logistik. | 11,000,000 |
 | **Modal Kerja Awal (Working Capital)** | Bahan baku awal 3 hari & kebutuhan tak terduga. | 2,500,000 |
@@ -112,6 +117,5 @@ Tata letak dirancang untuk mengamankan kapasitas operasi maksimal pada keterbata
 *   **Sistem Kelistrikan Jalur Ganda (Dual-Route Electrical Setup):** Distribusi daya 3.5 kW dibagi rata menggunakan 2 jalur *kabel custom 20m* terpisah di dalam selang pengaman. Jalur A melayani penuh elemen pemanas (2x Rice Cooker), sementara Jalur B dialokasikan penuh untuk sistem pencahayaan LED sorot daya tinggi dan kebutuhan operasional elektronik kasir/gadget. Hal ini mencegah kegagalan sirkuit (trip breaker) pada panel utama bengkel.
 *   ***EN:*** *Dual-Line Power Distribution: The 3.5 kW supply is balanced using 2 independent 20m custom heavy cables running inside protective hoses. Route A serves heat elements (2x Rice Cookers), while Route B runs high-power LED floodlights and cashier electronics. This layout isolates peak loads to prevent breaker tripping on the host panel.*
 ---
-```
 
-```
+24.05.2026
