@@ -129,4 +129,5 @@ Tata letak dirancang untuk mengamankan kapasitas operasi maksimal pada keterbata
 
 * **Sistem Kelistrikan Jalur Ganda (Dual-Route Electrical Setup):** Distribusi daya 3.5 kW dibagi rata menggunakan 2 jalur *kabel custom 20m* terpisah di dalam selang pengaman. Jalur A melayani penuh elemen pemanas (2x Rice Cooker), sementara Jalur B dialokasikan penuh untuk sistem pencahayaan LED sorot daya tinggi dan kebutuhan operasional elektronik kasir/gadget. Hal ini mencegah kegгаgalan sirkuit (trip breaker) pada panel utama bengkel.
 * ***EN:*** *Dual-Line Power Distribution: The 3.5 kW supply is balanced using 2 independent 20m custom heavy cables running inside protective hoses. Route A serves heat elements (2x Rice Cookers), while Route B runs high-power LED floodlights and cashier electronics. This layout isolates peak loads to prevent breaker tripping on the host panel.*
+  
 ---
